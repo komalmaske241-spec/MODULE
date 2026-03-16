@@ -1,4 +1,4 @@
 # MODULE
 MY MODULE IS FOR WEB DEV <br>
 AUTHOR=KOMAL MASKE
-console.log("hello world")
+
